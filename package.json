@@ -1,0 +1,23 @@
+{
+    "name": "cms-novel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs:dev": "vitepress dev --host 127.0.0.254",
+        "docs:build": "vitepress build",
+        "docs:preview": "vitepress preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@giscus/vue": "^3.0.0",
+        "vitepress-theme-open17": "^1.2.1",
+        "vue": "^3.5.13"
+    },
+    "dependencies": {
+        "vitepress": "^1.5.0"
+    }
+}

@@ -1,0 +1,58 @@
+{
+  "hash": "a94199f9",
+  "configHash": "c7e10e4f",
+  "lockfileHash": "385b5b22",
+  "browserHash": "f69eb9f4",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/vue@3.5.13_typescript@5.7.2/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "3602769b",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.6.8/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "9692c7e1",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/.pnpm/@vueuse+core@11.3.0_vue@3.5.13_typescript@5.7.2_/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "213c7c65",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../node_modules/.pnpm/@vueuse+integrations@11.3.0_focus-trap@7.6.2_vue@3.5.13_typescript@5.7.2_/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "4b644a48",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "253d57b2",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../node_modules/.pnpm/minisearch@7.1.1/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "3849bc6d",
+      "needsInterop": false
+    },
+    "vitepress-theme-open17": {
+      "src": "../../../node_modules/.pnpm/vitepress-theme-open17@1.2.1_vitepress@1.5.0_@algolia+client-search@5.18.0_postcss@8.4.49_sea_36l5ki4uakuu7zj2olytxpf6yq/node_modules/vitepress-theme-open17/libs/index.ts",
+      "file": "vitepress-theme-open17.js",
+      "fileHash": "1bdb6fcb",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-O52ATNBZ": {
+      "file": "chunk-O52ATNBZ.js"
+    },
+    "chunk-XFKLAG32": {
+      "file": "chunk-XFKLAG32.js"
+    }
+  }
+}

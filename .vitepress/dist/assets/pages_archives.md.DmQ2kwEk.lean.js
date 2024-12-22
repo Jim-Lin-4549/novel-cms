@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.vTKgiQvJ.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"archive"},"headers":[],"relativePath":"pages/archives.md","filePath":"pages/archives.md"}'),r={name:"pages/archives.md"};function s(c,o,i,n,p,_){return t(),a("div")}const m=e(r,[["render",s]]);export{h as __pageData,m as default};

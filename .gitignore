@@ -1,0 +1,7 @@
+other
+node_modules
+
+.DS_Store
+thumbs.db
+
+**/*.desp
